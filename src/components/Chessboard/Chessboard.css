@@ -1,0 +1,39 @@
+#chessboard {
+    display: grid;
+    grid-template-columns: repeat(8, 10vh);
+    grid-template-rows: repeat(8, 10vh);
+
+    width: 80vh;
+    height: 80vh;
+
+    background-color: #b58763;
+}
+
+#modal_container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+#mess_button_container {
+    display: grid;
+    margin: auto;
+    width: 40%
+}
+
+#play_again_button {
+    margin: auto;
+    padding: 3%;
+    background-color: #363636;
+    color: white;
+    border: none;
+    border-radius: 500px;
+    display: block;
+    margin-top: 5%
+}
+
+#modal_message {
+    width: 100%;
+    text-align: center;
+    display: block;
+}
