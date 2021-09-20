@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Single-Player-Chess-Using-React/static/css/main.ce46a8d3.chunk.css",
+    "main.js": "/Single-Player-Chess-Using-React/static/js/main.45a81c55.chunk.js",
+    "main.js.map": "/Single-Player-Chess-Using-React/static/js/main.45a81c55.chunk.js.map",
+    "runtime-main.js": "/Single-Player-Chess-Using-React/static/js/runtime-main.950c2808.js",
+    "runtime-main.js.map": "/Single-Player-Chess-Using-React/static/js/runtime-main.950c2808.js.map",
+    "static/js/2.a2ef3b6f.chunk.js": "/Single-Player-Chess-Using-React/static/js/2.a2ef3b6f.chunk.js",
+    "static/js/2.a2ef3b6f.chunk.js.map": "/Single-Player-Chess-Using-React/static/js/2.a2ef3b6f.chunk.js.map",
+    "static/js/3.763f91e6.chunk.js": "/Single-Player-Chess-Using-React/static/js/3.763f91e6.chunk.js",
+    "static/js/3.763f91e6.chunk.js.map": "/Single-Player-Chess-Using-React/static/js/3.763f91e6.chunk.js.map",
+    "index.html": "/Single-Player-Chess-Using-React/index.html",
+    "static/css/main.ce46a8d3.chunk.css.map": "/Single-Player-Chess-Using-React/static/css/main.ce46a8d3.chunk.css.map",
+    "static/js/2.a2ef3b6f.chunk.js.LICENSE.txt": "/Single-Player-Chess-Using-React/static/js/2.a2ef3b6f.chunk.js.LICENSE.txt",
+    "static/media/move.205baa9a.mp3": "/Single-Player-Chess-Using-React/static/media/move.205baa9a.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.950c2808.js",
+    "static/js/2.a2ef3b6f.chunk.js",
+    "static/css/main.ce46a8d3.chunk.css",
+    "static/js/main.45a81c55.chunk.js"
+  ]
+}
