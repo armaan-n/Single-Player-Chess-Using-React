@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Single Player Chess
+
+## Try it out here!
+
+https://armaan-n.github.io/Single-Player-Chess-Using-React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
